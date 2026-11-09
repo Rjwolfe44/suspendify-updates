@@ -11,6 +11,16 @@
               "strict_min_version": "142.0"
             }
           }
+        },
+        {
+          "version": "2.3.1",
+          "update_link": "https://github.com/Rjwolfe44/suspendify-updates/releases/download/v2.3.1/suspendify-2.3.1.xpi",
+          "update_hash": "sha256:1d704a1fc4ecd23f3e6d099eb0423791722571586de3a67cbbf5b5cca7d3c664",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "142.0"
+            }
+          }
         }
       ]
     }
