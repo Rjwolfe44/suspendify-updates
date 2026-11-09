@@ -1,3 +1,18 @@
 {
-  "addons": {}
+  "addons": {
+    "suspendify-firefox@local": {
+      "updates": [
+        {
+          "version": "2.3.0",
+          "update_link": "https://github.com/Rjwolfe44/suspendify-updates/releases/download/v2.3.0/suspendify-2.3.0.xpi",
+          "update_hash": "sha256:d9e3de69f0ef9f91d85f906bec8d1add44af28e79a74ff0637db483b553ccb35",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "142.0"
+            }
+          }
+        }
+      ]
+    }
+  }
 }
